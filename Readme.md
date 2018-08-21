@@ -45,7 +45,7 @@ Want to help out? If you are:
  - A Marketer, A Designer or Investor please Email info@worldbrain.io
  - If you want to [donate click here](https://www.patreon.com/WorldBrain)! :moneybag:
 
-**If your a developer Please see [Contributing!](./docs/Contributing-Guide.md)**
+**If you're a developer Please see [Contributing!](./docs/Contributing-Guide.md)**
 
 Have questions?
 - [Feedback](#contact), how can we make our extension better?
